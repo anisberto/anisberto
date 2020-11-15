@@ -9,9 +9,10 @@
 <a href="mailto:anisberto_reis@hotmail.com.com?subject=Questions" title="Email-Anisberto">
     <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-Hotmail-blue">
 </a>
-<br>
-## I'm a Brazilian programming student! I am studying Systems Analysis and Development.
-## Currently I'm focused on
 
+<br>
+
+## I'm a Brazilian programming student! I am studying Systems Analysis and Development.
+## Currently I'm focused on...
 - 🔭 Working on Personal Projects.
 - 🌱 Learning Java.
