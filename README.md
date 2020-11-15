@@ -5,10 +5,10 @@
 </a>
 
 <a href="mailto:anisbertoos@gmail.com?subject=Questions" title="Email-Anisberto">
-    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Email-red">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-Gmail-red">
 </a>
 <a href="mailto:anisberto_reis@hotmail.com.com?subject=Questions" title="Email-Anisberto">
-    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Email-blue">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-Hotmail-blue">
 </a>
 <br>
 
