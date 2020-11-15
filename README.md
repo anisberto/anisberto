@@ -16,4 +16,5 @@ I'm a Brazilian programming student! I am studying Systems Analysis and Developm
 <br>
 Currently I'm focused on...
 - 🔭 Working on Personal Projects.
+- 💻 Solve problems
 - 🌱 Learning Java.
