@@ -19,6 +19,7 @@
     <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Email-blue">
 </a>
 <br>
+<hr>
 I'm a Brazilian programming student! I am studying Systems Analysis and Development.
 Currently I'm focused on
 
