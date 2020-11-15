@@ -12,7 +12,7 @@
 
 <br>
 
-## I'm a Brazilian programming student! I am studying Systems Analysis and Development.
-## Currently I'm focused on...
+# I'm a Brazilian programming student! I am studying Systems Analysis and Development.
+# Currently I'm focused on...
 - 🔭 Working on Personal Projects.
 - 🌱 Learning Java.
