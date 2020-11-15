@@ -11,10 +11,13 @@
 </a>
 
 <br>
+<br>
 
 I'm a Brazilian programming student! I am studying Systems Analysis and Development.
 <br>
+<br>
 Currently I'm focused on...
+<br>
 - 🔭 Working on Personal Projects.
 - 💻 Solve problems
 - 🌱 Learning Java.
