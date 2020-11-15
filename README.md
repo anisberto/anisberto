@@ -5,6 +5,18 @@
 <a href="https://github.com/anisberto">
     <img alt="Anisberto Reis" src="https://img.shields.io/github/followers/anisberto?style=social">
 </a>
+<a href="https://twitter.com/AnisbertoKing">
+    <img alt="Anisberto Reis" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAnisbertoKing">
+</a>
+<a href="https://www.instagram.com/anisberto_reis/">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Instagran-critical">
+</a>
+<a href="mailto:anisbertoos@gmail.com?subject=Questions" title="Email-Anisberto">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Email-red">
+</a>
+<a href="mailto:anisberto_reis@hotmail.com.com?subject=Questions" title="Email-Anisberto">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto-Email-blue">
+</a>
 
 I'm a Brazilian programming student! I am studying Systems Analysis and Development.
 Currently I'm focused on
