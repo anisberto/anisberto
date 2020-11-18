@@ -19,6 +19,7 @@ I believe that the main objective is to solve problems.
 <br>
 Currently I'm focused on...
 <br>
-- 🔭 Working on personal projects and willing to work on any other project involving technology and programming :)
+
+- 🔭 Working on personal projects and willing to work on any other project involving technology and programming :) <br>
 - 💻 Solve problems
 - 🌱 Learning Java, Go, JS, C++, Python....
