@@ -17,7 +17,8 @@ I believe that the main objective is to solve problems.
 <br>
 Currently I'm focused on...
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?anisberto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anisberto Reis' Github Stats](https://github-readme-stats.vercel.app/api?anisberto=hiperesp&show_icons=true)\
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?anisberto=hiperesp&hide=c%2B%2B,c,objective-c)
 
 - 🔭 Working on personal projects and willing to work on any other project involving technology and programming :) <br>
 - 💻 Solve problems
