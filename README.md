@@ -17,9 +17,10 @@ I believe that the main objective is to solve problems.
 <br>
 Currently I'm focused on...
 <br>
+<!--
 ![Anisberto Reis' Github Stats](https://github-readme-stats.vercel.app/api?anisberto=hiperesp&show_icons=true)\
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?anisberto=hiperesp&hide=c%2B%2B,c,objective-c)
-
+-->
 - 🔭 Working on personal projects and willing to work on any other project involving technology and programming :) <br>
 - 💻 Solve problems
 - 🌱 Learning Java, Go, JS, C++, Python....
