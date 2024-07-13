@@ -31,9 +31,6 @@ I believe that the main objective is to solve problems.
 <a href="mailto:anisbertoos@gmail.com?subject=Questions" title="Email-Anisberto">
     <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-Gmail-red">
 </a>
-<a href="https://www.instagram.com/anisberto_reis/">
-    <img alt="Anisberto Reis" src="https://camo.githubusercontent.com/fb9dce7e587c033b550a94d232d2957b372e916bc6c5788d58a3a078e2b2ef6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6331333538343f7374796c653d666c6174266c6162656c436f6c6f723d633133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width:100%;">
-</a>
 <br>
 
 Currently I'm focused on...
